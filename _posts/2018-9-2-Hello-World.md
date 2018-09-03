@@ -4,55 +4,40 @@ title: Collecting data
 ---
 Beautiful soup is used to scrape data from a job seeker website.
 
+## Welcome to GitHub Pages
 
-This is a demo of all styled elements in Jekyll Now.
+You can use the [editor on GitHub](https://github.com/weifusunny/weifu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
+### Markdown
 
-## Header 2 (H1 is reserved for post titles)##
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
 ### Header 3
 
-#### Header 4
+- Bulleted
+- List
 
-A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
+1. Numbered
+2. List
 
-An image, located within /images
+**Bold** and _Italic_ and `Code` text
 
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
-
-* A bulletted list
-- alternative syntax 1
-+ alternative syntax 2
-  - an indented list item
-
-1. An
-2. ordered
-3. list
-
-Inline markup styles:
-
-- _italics_
-- **bold**
-- `code()`
-
-> Blockquote
->> Nested Blockquote
-
-Syntax highlighting can be used with triple backticks, like so:
-
-```javascript
-/* Some pointless Javascript */
-var rawr = ["r", "a", "w", "r"];
+[Link](url) and ![Image](src)
 ```
 
-Use two trailing spaces  
-on the right  
-to create linebreak tags  
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-Finally, horizontal lines
+### Jekyll Themes
 
-----
-****
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weifusunny/weifu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

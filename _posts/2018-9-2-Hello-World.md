@@ -2,8 +2,7 @@
 layout: post
 title: Collecting data
 ---
-Beautiful soup is used to scrape data from a job seeker website.
-
+### Beautiful soup is used to scrape data from a job seeker website.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/weifusunny/weifu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
